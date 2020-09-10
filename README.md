@@ -1,2 +1,2 @@
 # portfolio
- A simple Portfolio tempalet
+ A simple Portfolio template.
